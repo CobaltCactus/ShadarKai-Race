@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="bfa22a59-fd65-4e35-ae0f-ac960c3b5fd2">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eb09c7f6-fbb0-477a-b528-0b0d67694b2e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf6fae9b0g9b28g02a6gee02gbcc13566e4a0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6800824dg229fgb0b4gb815g4c7474715f23" version="1" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="ActionResource(Movement,9,0)" />
+        <field name="Type" type="FixedStringTableFieldDefinition" value="ActionResource" />
+        <field name="ProgressionId" type="GuidTableFieldDefinition" value="9ab4ebd9-c1ea-40d3-8c2d-c7fb6887c8f6" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

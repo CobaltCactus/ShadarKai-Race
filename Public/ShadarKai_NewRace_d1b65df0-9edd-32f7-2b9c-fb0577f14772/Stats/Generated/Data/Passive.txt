@@ -1,0 +1,16 @@
+new entry "ShadarKai_NecroResistance"
+type "PassiveData"
+data "DisplayName" "hf0134595g53d2g2b69g5af6g8be7e8886f46;1"
+data "Description" "h58db5da9g2e58ga8e8g409dg26251f34f63d;1"
+data "Icon" "PassiveFeature_Generic_Magical"
+data "Properties" "Highlighted"
+data "Boosts" "Resistance(Necrotic, Resistant)"
+
+new entry "ShadarKai_Movement"
+type "PassiveData"
+data "DisplayName" "h335fa3c9ga3d8g3a60gea59gdcde9dd2bb33;1"
+data "Description" "h46ed43eeg4435ge123g2d55g5f8ce6d443c5;1"
+data "DescriptionParams" "Distance(9);"
+data "Properties" "Highlighted"
+data "Boosts" "ActionResource(Movement,9,0)"
+

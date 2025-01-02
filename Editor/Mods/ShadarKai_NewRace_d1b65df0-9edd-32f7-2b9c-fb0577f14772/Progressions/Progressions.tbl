@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="53912403-fe14-4ce0-89aa-96acb1dee21a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d911b12f-ba4e-43af-9e24-e7e9e5b1b69b" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="AllowImprovement" type="BoolTableFieldDefinition" value="False" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Perception)" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ShadarKai_Movement; Darkvision; ShadarKai_NecroResistance" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

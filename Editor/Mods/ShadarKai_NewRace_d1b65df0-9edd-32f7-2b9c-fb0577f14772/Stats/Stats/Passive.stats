@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ecc981a9-7710-44ed-9934-46d20efe12a4" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_NecroResistance" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf0134595g53d2g2b69g5af6g8be7e8886f46" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h58db5da9g2e58ga8e8g409dg26251f34f63d" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Necrotic, Resistant)" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Magical" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1b9192ed-dadb-489e-a43d-a30ffb358095" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Movement" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h335fa3c9ga3d8g3a60gea59gdcde9dd2bb33" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h46ed43eeg4435ge123g2d55g5f8ce6d443c5" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="Distance(9);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(Movement,9,0)" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
