@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="ShadarKai racial"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ShadarKnowledge"/>
+                    <attribute id="UUID" type="guid" value="8d79e901-dd13-4463-bcac-450db5ba8547"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Test"/>
+                    <attribute id="Spells" type="LSString" value="Shout_AstralKnowledge2"/>
+                    <attribute id="UUID" type="guid" value="ff3f7164-970a-4241-9bca-de078227da15"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

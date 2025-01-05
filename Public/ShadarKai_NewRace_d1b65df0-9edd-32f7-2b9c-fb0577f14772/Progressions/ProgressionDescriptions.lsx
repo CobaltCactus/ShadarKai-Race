@@ -12,6 +12,28 @@
                     <attribute id="Type" type="FixedString" value="ActionResource"/>
                     <attribute id="UUID" type="guid" value="eb09c7f6-fbb0-477a-b528-0b0d67694b2e"/>
                 </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h1555ebc9g3e8bg7f38g24d0g2fd59afba553" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7aceac4dgaf2agd57bg9eb4g9d8abefd6fc3" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Ability(2,Dexterity)"/>
+                    <attribute id="ProgressionId" type="guid" value="195f4e52-82f8-46d0-8672-ded08e5a0857"/>
+                    <attribute id="Type" type="FixedString" value="Ability"/>
+                    <attribute id="UUID" type="guid" value="32a769aa-39be-4fde-9b01-4b998803025e"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h36df0a0egfcd1g0f14g863fg58fde2f16f21" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf601fbbcg305ag0dfeg02a6g4a40554ec8d7" version="1"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:AstralPoint"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="96c5251b-882f-430b-b9c7-ce04f80330b4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h595b4353g56d5g6c01g41a1g9d4be73b087f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha62a6ac2gce5eg3d9bg3045g6e96a7fa5a72" version="1"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:TrancePoint"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="336ae473-4af0-4fa6-a20a-9f231748745b"/>
+                </node>
             </children>
         </node>
     </region>

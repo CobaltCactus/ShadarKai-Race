@@ -1055,6 +1055,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="ab9f938e-83ec-4276-8c86-f223db189b58"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="0f95560b-5a30-4a94-a675-cdaa10a735f6"/>
+                        </node>
                         <node id="TattooColors">
                             <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e"/>
                         </node>
@@ -1519,7 +1522,7 @@
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="Name" type="FixedString" value="ShadarKai_Netherese"/>
                     <attribute id="ParentGuid" type="guid" value="86f0f55b-6f13-43ce-b330-2cc58fe08446"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="c066021b-fc04-4c19-927a-f41e1d6d95ed"/>
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Humans"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value="Human"/>
                     <attribute id="UUID" type="guid" value="a90bcf72-1f7e-4ad6-b242-f1c7e03873b7"/>
@@ -1707,9 +1710,6 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8a9e7b2-833d-4660-ab7b-cce3af1dc06b"/>
                         </node>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="351f4e42-1217-4c06-b47a-443dcf69b111"/>
-                        </node>
                     </children>
                 </node>
                 <node id="Race">
@@ -1718,7 +1718,7 @@
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="Name" type="FixedString" value="ShadarKai_Elven"/>
                     <attribute id="ParentGuid" type="guid" value="86f0f55b-6f13-43ce-b330-2cc58fe08446"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="12166cc1-3442-4edc-b0da-e5d440e0fb84"/>
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Elves"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value="Elf"/>
                     <attribute id="UUID" type="guid" value="ecfc5155-4c08-4513-935e-f5e324527b86"/>
@@ -1905,9 +1905,6 @@
                         </node>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="4832406f-d9f7-4520-b4f2-452541cdb45a"/>
-                        </node>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="351f4e42-1217-4c06-b47a-443dcf69b111"/>
                         </node>
                     </children>
                 </node>

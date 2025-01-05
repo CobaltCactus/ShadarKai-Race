@@ -12,5 +12,36 @@
         <field name="ProgressionId" type="GuidTableFieldDefinition" value="9ab4ebd9-c1ea-40d3-8c2d-c7fb6887c8f6" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="32a769aa-39be-4fde-9b01-4b998803025e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7aceac4dgaf2agd57bg9eb4g9d8abefd6fc3" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h1555ebc9g3e8bg7f38g24d0g2fd59afba553" version="1" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="Ability(2,Dexterity)" />
+        <field name="Type" type="FixedStringTableFieldDefinition" value="Ability" />
+        <field name="ProgressionId" type="GuidTableFieldDefinition" value="195f4e52-82f8-46d0-8672-ded08e5a0857" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="96c5251b-882f-430b-b9c7-ce04f80330b4" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf601fbbcg305ag0dfeg02a6g4a40554ec8d7" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h36df0a0egfcd1g0f14g863fg58fde2f16f21" version="1" />
+        <field name="Type" type="FixedStringTableFieldDefinition" value="ActionResource" />
+        <field name="ParamMatch" type="FixedStringTableFieldDefinition" value="0:AstralPoint" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="336ae473-4af0-4fa6-a20a-9f231748745b" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha62a6ac2gce5eg3d9bg3045g6e96a7fa5a72" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h595b4353g56d5g6c01g41a1g9d4be73b087f" version="1" />
+        <field name="Type" type="FixedStringTableFieldDefinition" value="ActionResource" />
+        <field name="ParamMatch" type="FixedStringTableFieldDefinition" value="0:TrancePoint" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

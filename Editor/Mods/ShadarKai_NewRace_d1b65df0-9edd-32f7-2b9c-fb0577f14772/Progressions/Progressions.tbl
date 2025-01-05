@@ -3,15 +3,37 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
-        <field name="UUID" type="IdTableFieldDefinition" value="d911b12f-ba4e-43af-9e24-e7e9e5b1b69b" />
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_423" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6caa928b-7d51-4893-8ee9-91f1e4d4d732" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc" />
         <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai" />
         <field name="Level" type="ByteTableFieldDefinition" value="1" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
-        <field name="AllowImprovement" type="BoolTableFieldDefinition" value="False" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Perception)" />
-        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ShadarKai_Movement; Darkvision; ShadarKai_NecroResistance" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(Movement,9,0),ActionResource(TrancePoint,2,0)" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ShadarKai_Movement;ShadarKai_Immunity;ShadarKai_Perception;ShadarKai_NecroResist;" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(8d79e901-dd13-4463-bcac-450db5ba8547);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="493a7ca7-229c-4c5b-b463-0f74ff5a8da5" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c066021b-fc04-4c19-927a-f41e1d6d95ed" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai_Human" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ShadarKai_Winterkin;Darkvision" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e0399d0c-56d1-4f9d-9e71-a34ee75e66ca" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="12166cc1-3442-4edc-b0da-e5d440e0fb84" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai_Elf" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="FeyAncestry;Darkvision" />
       </fields>
     </stat_object>
   </stat_objects>

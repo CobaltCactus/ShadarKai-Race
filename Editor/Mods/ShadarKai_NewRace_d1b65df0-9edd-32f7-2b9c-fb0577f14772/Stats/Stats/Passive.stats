@@ -3,17 +3,6 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="ecc981a9-7710-44ed-9934-46d20efe12a4" />
-        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_NecroResistance" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf0134595g53d2g2b69g5af6g8be7e8886f46" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h58db5da9g2e58ga8e8g409dg26251f34f63d" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Necrotic, Resistant)" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Magical" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="1b9192ed-dadb-489e-a43d-a30ffb358095" />
         <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Movement" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h335fa3c9ga3d8g3a60gea59gdcde9dd2bb33" version="1" />
@@ -21,6 +10,50 @@
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="Distance(9);" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(Movement,9,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c554fcb1-e6e9-4849-a9f4-00da068be7f4" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Immunity" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h57699a25geb2cgf91dg7f81g27f85a8683f3" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h636433f1g7969g0be8gcbeege0a4bdefa67d" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="statIcons_Moonshield" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(ACT2_SHADOW_CURSE_IMMUNE);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f68ecbd8-fd3c-4556-8659-cb658f2c2eef" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Perception" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h10b9b8f4g3898ga739gc1b1g96e006db4d67" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he4960097gb16fgee67ge1e9g8c06f2205933" version="4" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill, Perception)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b48a0e2f-ab83-4d04-889e-646d6f97eba5" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Winterkin" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd63b1138g4c64gbb60g9416g258f9c591a07" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hedcc6b59ga562g05c8ge3f1g8c2505629794" version="2" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="+2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Paladin_AuraOfProtection" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RollBonus(DeathSavingThrow, 2) " />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1a3363e6-2ab5-4895-86ef-fc227f611066" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_NecroResist" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4efcf87cg446ag02cdgb25dg732478e2ff80" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h087ba76cg1e31g27efgf79eg5ced8dddc331" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="GenericIcon_DamageType_Necrotic" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Necrotic, Resistant)" />
       </fields>
     </stat_object>
   </stat_objects>
