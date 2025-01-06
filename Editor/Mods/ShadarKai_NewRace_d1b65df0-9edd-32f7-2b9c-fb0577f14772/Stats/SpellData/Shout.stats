@@ -37,7 +37,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf34f5088g5b3egeb30geeedg938272f77c4f" version="3" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_BATTLEAXE,100,-1)" />
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Battleaxe" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_BATTLEAXE')" />
       </fields>
     </stat_object>
@@ -64,6 +64,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h475af627g6e45g6456ga764g4cc7924899f3" version="3" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_DAGGER,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_DAGGER')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -89,6 +90,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4072db4dgc358g463ag131bg4f33a767c5c7" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_GLAIVE,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_GLAIVE')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -101,6 +103,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd9be853bg98f6g27c4g07fag7e7a2be6217d" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_GREATAXE,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_GREATAXE')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -113,6 +116,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8db4a0f1g3084g7a05g613bg1cd8cd6a818c" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_GREATCLUB,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_GREATCLUB')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -125,6 +129,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h10f6980cgbb22gd4f1g90aegcccd9911a863" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_GREATSWORD,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_GREATSWORD')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -137,6 +142,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdf41df69gf82dg274bgf2e1g80801b26c01a" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_HALBERD,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_HALBERD')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -149,6 +155,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h03e0922cg44bcg93b2gcf0bg5c83859b078d" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_HANDCROSSBOW,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_HANDCROSSBOW')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -161,6 +168,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he9f37810gb8e7g4920g14efg6d7bd8bf41dc" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_JAVELIN,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_JAVELIN')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -173,6 +181,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h781bd565g2612ga234ge1a4g82b0e2a66203" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_LIGHTCROSSBOW,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_LIGHTCROSSBOW')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -185,6 +194,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd9e1688dg0d57g4608g2771gaf1557a8acfc" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_LIGHTHAMMER,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_LIGHTHAMMER')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -197,6 +207,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc63a091ag6f5cg9ce3g6671g540da413cc12" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_LONGBOW,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_LONGBOW')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -209,6 +220,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hfe7ebc60g32fbg92cdgae96g4b4136b66ecf" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_LONGSWORD,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_LONGSWORD')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -221,6 +233,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd1c5ac32g6a52g231dgf5c3g27cf8f1e94fc" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_MACE,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_MACE')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -233,6 +246,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3209341dg5296g8218ge5ffga3443ebf4b7f" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_MAUL,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_MAUL')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -245,6 +259,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha9bafa9egcd16g146fg6563g5576a80e011d" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_MORNINGSTAR,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_MORNINGSTAR')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -257,6 +272,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5214386egc8e9g131eg1e72g9ab8afde4f71" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_PIKE,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_PIKE')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -269,6 +285,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h05d0f0acgff26gf2f5ga7f2gaf42e1cd7dad" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_QUARTERSTAFF,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_QUARTERSTAFF')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -281,6 +298,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h68c61e86gf524g1e3dg5bdega5e3aa5c47e4" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_RAPIER,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_RAPIER')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -293,6 +311,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc10a59d6g1091gdb2dga931g2abf099869e4" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_SCIMITAR,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_SCIMITAR')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -305,6 +324,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0d133b86g9af6g38e6g3b5ag831a3cabd418" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_SHORTBOW,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_SHORTBOW')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -317,6 +337,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb429b844g823fg1a1fg95a3g6b1060dd1532" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_SHORTSWORD,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_SHORTSWORD')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -329,6 +350,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hac87deb3gd5b4g3c68g005cg864245c5b2e6" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_SICKLE,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_SICKLE')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -341,6 +363,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4b771bdfgc622g8693g5df9g03a26f3913df" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_SPEAR,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_SPEAR')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -353,6 +376,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf3fc6476g49fdge92dgfba2ga4bb68b62410" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_TRIDENT,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_TRIDENT')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -365,6 +389,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h391a56c8gb43agbd97gdaa0gf393ea7a0f20" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_WARPICK,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_WARPICK')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -377,6 +402,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h317af696g12d5g4f93g8d95gaed46e847106" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_WARHAMMER,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_WARHAMMER')" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
       </fields>
     </stat_object>
   </stat_objects>
