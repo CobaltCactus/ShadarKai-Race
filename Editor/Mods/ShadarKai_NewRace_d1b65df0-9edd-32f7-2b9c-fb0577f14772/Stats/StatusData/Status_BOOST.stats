@@ -7,7 +7,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha0989c13gbca1ge4f7g32feg9669ffeb06f0" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0c0f91bbgaf40g31f6gf0c8g8c7a5a103939" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -16,7 +16,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_BATTLEAXE" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc1e4b006gd716g0a77gc86eg160381119294" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf19f380eg106cgdde3g6a1cg5fb03899aa49" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_AbsolutePower" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Battleaxes)" />
       </fields>
     </stat_object>
@@ -208,6 +208,16 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb48816eg22adgfa60g9fa8g2ffb803ae2ca" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h21c45352gd99dg1ab1gcb36g72f43e5a9158" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Morningstars)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6b286f9b-5575-4939-a353-f8c632f512f7" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_MUSICALINSTRUMENT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="94217e36-4c6c-4fa9-a26f-d74b61aa2292" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he0ef78f8g3b19g2431gfa40gba722dea9c2d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h58cb8ff8g58bdg8e58gd552g78a33551f359" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(MusicalInstrument)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

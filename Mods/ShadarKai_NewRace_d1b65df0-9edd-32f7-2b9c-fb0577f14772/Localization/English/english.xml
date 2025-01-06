@@ -435,17 +435,17 @@
   <content contentuid="hfa9f35c7gca61g7457ge99aga52a1dc7da42" version="2">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Darts.</content>
   <content contentuid="h6ac291bag0007g3827g177dgb5babbe4706a" version="2">Shadar Knowledge: Flail</content>
   <content contentuid="h55b8e96fge3afg9be0g3ae5g2a1dcf5f248d" version="3">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Flails.</content>
-  <content contentuid="h00feb461gf779g367fgfb1cg31702888f0e4" version="1">Shadar Knowledge</content>
-  <content contentuid="heebef5c1ga495gf690g227dg0ad2415df755" version="2">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in a type of &lt;LSTag Tooltip="Weapon"&gt;Weapon&lt;/LSTag&gt;.</content>
-  <content contentuid="heb391c5cg9915g596cgbae2ga98e89eace16" version="2">Shadar Knowledge: Battleaxe</content>
+  <content contentuid="h00feb461gf779g367fgfb1cg31702888f0e4" version="2">Trance</content>
+  <content contentuid="heebef5c1ga495gf690g227dg0ad2415df755" version="4">You may enter a deep trance twice per day to gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in a &lt;LSTag Tooltip="Weapon"&gt;Weapon&lt;/LSTag&gt; or &lt;LSTag Tooltip="Tool:"&gt;Tool&lt;/LSTag&gt; of your choice.</content>
+  <content contentuid="heb391c5cg9915g596cgbae2ga98e89eace16" version="3">Trance: Battleaxe</content>
   <content contentuid="hf34f5088g5b3egeb30geeedg938272f77c4f" version="3">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Battleaxes.</content>
-  <content contentuid="h21399676g7e70gac63gd921g5c47e785b976" version="2">Shadar Knowledge: Club</content>
+  <content contentuid="h21399676g7e70gac63gd921g5c47e785b976" version="3">Trance: Club</content>
   <content contentuid="h95dfd2c5g08edg5246g3fd1g38eb6988b554" version="3">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Clubs.</content>
-  <content contentuid="h1e3d1990g1af7g4bc7g500fgdea0fa809148" version="2">Shadar Knowledge: Dagger</content>
+  <content contentuid="h1e3d1990g1af7g4bc7g500fgdea0fa809148" version="3">Trance: Dagger</content>
   <content contentuid="h475af627g6e45g6456ga764g4cc7924899f3" version="3">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Daggers.</content>
   <content contentuid="hcea271d4ge053g5034ge6a7g4b2cd429e5a4" version="2">Shadar Knowledge: Dart</content>
   <content contentuid="hbeb9d26aga88fg04f5g6716g653409199871" version="2">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Dart.</content>
-  <content contentuid="hce388e44g1047g6814g3287g1ce99f026247" version="2">Shadar Knowledge: Flail</content>
+  <content contentuid="hce388e44g1047g6814g3287g1ce99f026247" version="3">Trance: Flail</content>
   <content contentuid="hb72effcbg4d49g949fg2fc7g401cbdabb6b7" version="3">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Flails.</content>
   <content contentuid="h9bb3fad0gb562g032ag91c5ge5a5ecc6d0cf" version="1">Proficient!</content>
   <content contentuid="hde0968d4gb008gda63gaae5g8de321a69a54" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in something.</content>
@@ -533,54 +533,62 @@
   <content contentuid="h37f397ebg55d3g5fe0g0424g23dc285ae0ad" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in War Picks.</content>
   <content contentuid="he251d4d6g125agc172g59a2g83e2e5883112" version="1">Shadar Knowledge: Warhammer</content>
   <content contentuid="hcf8f6568g7fe8gcf7age3a7g8ede6921dc07" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Warhammers.</content>
-  <content contentuid="heeb1dc36g70dagcf34g871ag70383af7058d" version="1">Shadar Knowledge: Glaive</content>
+  <content contentuid="heeb1dc36g70dagcf34g871ag70383af7058d" version="2">Trance: Glaive</content>
   <content contentuid="h4072db4dgc358g463ag131bg4f33a767c5c7" version="2">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Glaives.</content>
-  <content contentuid="h80b4fd9dgbcfegcf3dgc09cg44b15ef27393" version="1">Shadar Knowledge: Greataxe</content>
+  <content contentuid="h80b4fd9dgbcfegcf3dgc09cg44b15ef27393" version="2">Trance: Greataxe</content>
   <content contentuid="hd9be853bg98f6g27c4g07fag7e7a2be6217d" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Greataxes.</content>
-  <content contentuid="h44cad7e7g16cdg3f62g3700g8075f37d2842" version="1">Shadar Knowledge: Greatclub</content>
+  <content contentuid="h44cad7e7g16cdg3f62g3700g8075f37d2842" version="2">Trance: Greatclub</content>
   <content contentuid="h8db4a0f1g3084g7a05g613bg1cd8cd6a818c" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Greatclubs.</content>
-  <content contentuid="hfc538f8bg9315gef5cge852g9a86034b2a71" version="1">Shadar Knowledge: Greatsword</content>
+  <content contentuid="hfc538f8bg9315gef5cge852g9a86034b2a71" version="2">Trance: Greatsword</content>
   <content contentuid="h10f6980cgbb22gd4f1g90aegcccd9911a863" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Greatswords.</content>
-  <content contentuid="haac697e2g4fcfgf350g24ddg06cdb88bfcb3" version="1">Shadar Knowledge: Halberd</content>
+  <content contentuid="haac697e2g4fcfgf350g24ddg06cdb88bfcb3" version="2">Trance: Halberd</content>
   <content contentuid="hdf41df69gf82dg274bgf2e1g80801b26c01a" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Halberds.</content>
-  <content contentuid="h9976bacagf4dfg40beg8b6bga0145f770412" version="1">Shadar Knowledge: Hand Crossbow</content>
+  <content contentuid="h9976bacagf4dfg40beg8b6bga0145f770412" version="2">Trance: Hand Crossbow</content>
   <content contentuid="h03e0922cg44bcg93b2gcf0bg5c83859b078d" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Hand Crossbows.</content>
-  <content contentuid="hbc342e39gc93fg6ce0gdbd1g5887a2f7c977" version="1">Shadar Knowledge: Javelin</content>
+  <content contentuid="hbc342e39gc93fg6ce0gdbd1g5887a2f7c977" version="2">Trance: Javelin</content>
   <content contentuid="he9f37810gb8e7g4920g14efg6d7bd8bf41dc" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Javelins.</content>
-  <content contentuid="hcc6766d6gdfbbg0788g60bdg26c6da999be4" version="1">Shadar Knowledge: Light Crossbow</content>
+  <content contentuid="hcc6766d6gdfbbg0788g60bdg26c6da999be4" version="2">Trance: Light Crossbow</content>
   <content contentuid="h781bd565g2612ga234ge1a4g82b0e2a66203" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Light Crossbows.</content>
-  <content contentuid="hccb2d147gc62eg92e4gab59g78ad859cb1a1" version="1">Shadar Knowledge: Light Hammer</content>
+  <content contentuid="hccb2d147gc62eg92e4gab59g78ad859cb1a1" version="2">Trance: Light Hammer</content>
   <content contentuid="hd9e1688dg0d57g4608g2771gaf1557a8acfc" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Light Hammers.</content>
-  <content contentuid="h46eafdbegc6c3g4730gabb2g3d86dc959397" version="1">Shadar Knowledge: Longbow</content>
+  <content contentuid="h46eafdbegc6c3g4730gabb2g3d86dc959397" version="2">Trance: Longbow</content>
   <content contentuid="hc63a091ag6f5cg9ce3g6671g540da413cc12" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Longbows.</content>
-  <content contentuid="h19e5ab3eg02e4g889bg026bg1672d50dbc2c" version="1">Shadar Knowledge: Longsword</content>
+  <content contentuid="h19e5ab3eg02e4g889bg026bg1672d50dbc2c" version="2">Trance: Longsword</content>
   <content contentuid="hfe7ebc60g32fbg92cdgae96g4b4136b66ecf" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Longswords.</content>
-  <content contentuid="hd2351ba0g0366gf251gb0dbg2952db4daccc" version="1">Shadar Knowledge: Mace</content>
+  <content contentuid="hd2351ba0g0366gf251gb0dbg2952db4daccc" version="2">Trance: Mace</content>
   <content contentuid="hd1c5ac32g6a52g231dgf5c3g27cf8f1e94fc" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Maces.</content>
-  <content contentuid="hd06f8accgc05ag7606g0725g54f643bd8cfc" version="1">Shadar Knowledge: Maul</content>
+  <content contentuid="hd06f8accgc05ag7606g0725g54f643bd8cfc" version="2">Trance: Maul</content>
   <content contentuid="h3209341dg5296g8218ge5ffga3443ebf4b7f" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Mauls.</content>
-  <content contentuid="h3b622f39gc670g9959gd8f0g2a282e12d61a" version="1">Shadar Knowledge: Morningstar</content>
+  <content contentuid="h3b622f39gc670g9959gd8f0g2a282e12d61a" version="2">Trance: Morningstar</content>
   <content contentuid="ha9bafa9egcd16g146fg6563g5576a80e011d" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Morningstars.</content>
-  <content contentuid="h976f763egbb41gef71g5d10g09e6b0eb96cf" version="1">Shadar Knowledge: Pike</content>
+  <content contentuid="h976f763egbb41gef71g5d10g09e6b0eb96cf" version="2">Trance: Pike</content>
   <content contentuid="h5214386egc8e9g131eg1e72g9ab8afde4f71" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Pike.</content>
-  <content contentuid="h3f79749bg26b3gf938g3d2bg23cc9b6f2849" version="1">Shadar Knowledge: Quarterstaff</content>
+  <content contentuid="h3f79749bg26b3gf938g3d2bg23cc9b6f2849" version="2">Trance: Quarterstaff</content>
   <content contentuid="h05d0f0acgff26gf2f5ga7f2gaf42e1cd7dad" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Quarterstaves.</content>
-  <content contentuid="h2e0e6f54g1f38g2076g00c4g00c82801f6ad" version="1">Shadar Knowledge: Rapier</content>
+  <content contentuid="h2e0e6f54g1f38g2076g00c4g00c82801f6ad" version="2">Trance: Rapier</content>
   <content contentuid="h68c61e86gf524g1e3dg5bdega5e3aa5c47e4" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Rapiers.</content>
-  <content contentuid="h9ceaad08gb36eg893eg587dg263cbf5b5be4" version="1">Shadar Knowledge: Scimitar</content>
+  <content contentuid="h9ceaad08gb36eg893eg587dg263cbf5b5be4" version="2">Trance: Scimitar</content>
   <content contentuid="hc10a59d6g1091gdb2dga931g2abf099869e4" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Scimitars.</content>
-  <content contentuid="hd575c423ged54g9b7ag5a29gb5f012bf033f" version="1">Shadar Knowledge: Shortbow</content>
+  <content contentuid="hd575c423ged54g9b7ag5a29gb5f012bf033f" version="2">Trance: Shortbow</content>
   <content contentuid="h0d133b86g9af6g38e6g3b5ag831a3cabd418" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shortbows.</content>
-  <content contentuid="hc47c6f0dgfd8aga5edga449g75d739f7f054" version="1">Shadar Knowledge: Shortsword</content>
+  <content contentuid="hc47c6f0dgfd8aga5edga449g75d739f7f054" version="2">Trance: Shortsword</content>
   <content contentuid="hb429b844g823fg1a1fg95a3g6b1060dd1532" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shortswords.</content>
-  <content contentuid="h05e0b951g88c0gc002g63c0gf8de28167d91" version="1">Shadar Knowledge: Sickle</content>
+  <content contentuid="h05e0b951g88c0gc002g63c0gf8de28167d91" version="2">Trance: Sickle</content>
   <content contentuid="hac87deb3gd5b4g3c68g005cg864245c5b2e6" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Sickles.</content>
-  <content contentuid="hfa68a59agf08ag2facg74b2g64f7484c7547" version="1">Shadar Knowledge: Spear</content>
+  <content contentuid="hfa68a59agf08ag2facg74b2g64f7484c7547" version="2">Trance: Spear</content>
   <content contentuid="h4b771bdfgc622g8693g5df9g03a26f3913df" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Spears.</content>
-  <content contentuid="h2e5d8a1ag2720g37d0gbc37g19f20d49a25f" version="1">Shadar Knowledge: Trident</content>
+  <content contentuid="h2e5d8a1ag2720g37d0gbc37g19f20d49a25f" version="2">Trance: Trident</content>
   <content contentuid="hf3fc6476g49fdge92dgfba2ga4bb68b62410" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Tridents.</content>
-  <content contentuid="h1b4855bcg8986ge4edg3aadga8db89b71a33" version="1">Shadar Knowledge: War Pick</content>
+  <content contentuid="h1b4855bcg8986ge4edg3aadga8db89b71a33" version="2">Trance: War Pick</content>
   <content contentuid="h391a56c8gb43agbd97gdaa0gf393ea7a0f20" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in War Picks.</content>
-  <content contentuid="h9554485egb76cgc565gc989g5c84c0fb8381" version="1">Shadar Knowledge: Warhammer</content>
+  <content contentuid="h9554485egb76cgc565gc989g5c84c0fb8381" version="2">Trance: Warhammer</content>
   <content contentuid="h317af696g12d5g4f93g8d95gaed46e847106" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Warhammers.</content>
+  <content contentuid="he0588201ge7aagf3efg92fbg4550cd694dec" version="1">Shadar Knowledge: Shield</content>
+  <content contentuid="hd0120ae1g6ca7g4926ge244g2f2067d5c3cb" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shields.</content>
+  <content contentuid="h7d9918dbg6febgf6eagc93bgda58cd53f8da" version="1">Shadar Knowledge: Shield</content>
+  <content contentuid="h822721cbgc28bgb1e0gb948ga6a08a88375c" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shields.</content>
+  <content contentuid="he0ef78f8g3b19g2431gfa40gba722dea9c2d" version="1">Shadar Knowledge: Musical Instrument</content>
+  <content contentuid="h58cb8ff8g58bdg8e58gd552g78a33551f359" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Musical Instruments.</content>
+  <content contentuid="hb2cb4a01gb269g827cg9703geff599ec97ec" version="2">Trance: Musical Instrument</content>
+  <content contentuid="h7b0b656eg26a9gbf8fg151fg24ce3fcac5f0" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Musical Instruments.</content>
 </contentList>
