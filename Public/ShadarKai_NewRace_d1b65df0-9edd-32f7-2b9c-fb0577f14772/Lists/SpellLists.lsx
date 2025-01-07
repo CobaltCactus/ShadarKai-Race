@@ -10,9 +10,14 @@
                     <attribute id="UUID" type="guid" value="8d79e901-dd13-4463-bcac-450db5ba8547"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Name" type="FixedString" value="Test"/>
-                    <attribute id="Spells" type="LSString" value="Shout_AstralKnowledge2"/>
-                    <attribute id="UUID" type="guid" value="ff3f7164-970a-4241-9bca-de078227da15"/>
+                    <attribute id="Name" type="FixedString" value="Blessing of the Raven Queen"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blessing_of_the_Raven_Queen"/>
+                    <attribute id="UUID" type="guid" value="52388d79-570c-4e8a-ae20-fa1fe26baa6c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Improved Blessing of the Raven Queen"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blessing_of_the_Raven_Queen_2"/>
+                    <attribute id="UUID" type="guid" value="7244492f-8fe8-4a2b-a344-b2de15fd157a"/>
                 </node>
             </children>
         </node>

@@ -24,6 +24,15 @@
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
                     <attribute id="UUID" type="guid" value="dd6665a5-5f0c-4130-80c7-109426c87c46"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h363c9b0cgff38g6582ge4b5gacbd9f297277" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd8557e5fgc5e1g3f4dgda0fg7dca2e211c48" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="RavenPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="98e44953-8c4e-4898-bd3d-907ad09aaa94"/>
+                </node>
             </children>
         </node>
     </region>

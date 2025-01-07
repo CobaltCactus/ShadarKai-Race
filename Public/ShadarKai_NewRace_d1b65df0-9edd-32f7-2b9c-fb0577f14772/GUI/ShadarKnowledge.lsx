@@ -235,6 +235,13 @@
                     <attribute id="V1" type="float" value="0.062988281"/>
                     <attribute id="V2" type="float" value="0.12451172"/>
                 </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Spell_Raven_Blessing"/>
+                    <attribute id="U1" type="float" value="0.062988281"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
             </children>
         </node>
     </region>

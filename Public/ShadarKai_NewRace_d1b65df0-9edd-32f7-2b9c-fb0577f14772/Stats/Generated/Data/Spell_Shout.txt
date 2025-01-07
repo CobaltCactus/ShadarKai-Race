@@ -380,3 +380,12 @@ data "Description" "h317af696g12d5g4f93g8d95gaed46e847106;1"
 data "TooltipStatusApply" "ApplyStatus(SHADAR_KNOWLEDGE_WARHAMMER,100,-1)"
 data "RequirementConditions" "not HasStatus('SHADAR_KNOWLEDGE_WARHAMMER') "
 
+new entry "Shout_RavenImmunity"
+type "SpellData"
+data "SpellType" "Shout"
+data "AIFlags" "CanNotUse"
+data "SpellProperties" "ApplyStatus(INVULNERABILITY,100,10)"
+data "TargetConditions" "Self()"
+data "DisplayName" "h1a5bcffcg25f4g7ad6g3220g23aec2a2dd46;1"
+data "Description" "h178e0b37g439cg8cf8gf26fg463f9a690934;1"
+

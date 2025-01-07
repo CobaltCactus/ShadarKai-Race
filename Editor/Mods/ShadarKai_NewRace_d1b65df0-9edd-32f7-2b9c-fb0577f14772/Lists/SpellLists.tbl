@@ -10,9 +10,16 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="ff3f7164-970a-4241-9bca-de078227da15" />
-        <field name="Name" type="NameTableFieldDefinition" value="Test" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Shout_AstralKnowledge2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="52388d79-570c-4e8a-ae20-fa1fe26baa6c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Blessing of the Raven Queen" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Blessing_of_the_Raven_Queen" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7244492f-8fe8-4a2b-a344-b2de15fd157a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Improved Blessing of the Raven Queen" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Blessing_of_the_Raven_Queen_2" />
       </fields>
     </stat_object>
   </stat_objects>

@@ -296,7 +296,7 @@
   <content contentuid="h1a1eeb4dgad68g6ee8gbb98g648bbd68116e" version="1">Penis D</content>
   <content contentuid="hb140f469ga435g2504g9f79g4c6a139f8d91" version="1">Penis E</content>
   <content contentuid="h57699a25geb2cgf91dg7f81g27f85a8683f3" version="1">Born in the Shadows</content>
-  <content contentuid="h636433f1g7969g0be8gcbeege0a4bdefa67d" version="3">Raised in the Shadowfell, shadow-based curses don't affect you.</content>
+  <content contentuid="h636433f1g7969g0be8gcbeege0a4bdefa67d" version="4">Raised in the Shadowfell, shadow-based curses don't affect you and you have a natural resistance to Necrotic damage.</content>
   <content contentuid="hdcc27e39ged9ag4d94ga932g825f3f751eb9" version="1">Really Shadar-Kai</content>
   <content contentuid="h257cd968g0ac6g48acgb908g00c5d1924939" version="1">This humanoid is really a Shadar-Kai</content>
   <content contentuid="h5dcd42ddg8490g4d8egb1a3gfa57d1e26638" version="1">Shadar-Kai (Elven)</content>
@@ -310,7 +310,7 @@
   <content contentuid="h10b9b8f4g3898ga739gc1b1g96e006db4d67" version="2">Shadar-Kai Perception</content>
   <content contentuid="he4960097gb16fgee67ge1e9g8c06f2205933" version="4">You have proficiency in Perception.</content>
   <content contentuid="hd63b1138g4c64gbb60g9416g258f9c591a07" version="1">Winterkin</content>
-  <content contentuid="hedcc6b59ga562g05c8ge3f1g8c2505629794" version="2">Due to your connection to the Raven Queen, you gain a [1] racial bonus to death saving throws.</content>
+  <content contentuid="hedcc6b59ga562g05c8ge3f1g8c2505629794" version="3">Due to your connection to the Raven Queen, you gain a +[1] racial bonus to death saving throws.</content>
   <content contentuid="hb285223agbe60gaa69gbc8ege0b7e8a41a9c" version="1">Trance</content>
   <content contentuid="h15b748c2gb8efgc665ga099g6f024a8e8d57" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in the chosen weapon or tool.</content>
   <content contentuid="hfd5df0e6g8e80gc5e1g2560g4603726f7602" version="2">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Battleaxes.</content>
@@ -457,7 +457,7 @@
   <content contentuid="h3b801e11gc849g6baag0d84g44832b8d4bdf" version="1">You can trance [1] times per rest to gain proficiency in a weapon type of your choice.</content>
   <content contentuid="h7c42347ag6317g6f46ge14fgfa477baf7139" version="1">Astral Point</content>
   <content contentuid="ha3b74c65g69f9ge1a4g344cg2756e9d39d5c" version="1">Astral Stuff</content>
-  <content contentuid="hf601fbbcg305ag0dfeg02a6g4a40554ec8d7" version="1">Astral Points: [3]</content>
+  <content contentuid="hf601fbbcg305ag0dfeg02a6g4a40554ec8d7" version="7">Raven Points</content>
   <content contentuid="h36df0a0egfcd1g0f14g863fg58fde2f16f21" version="1">Astral Points can be used to alter your weapon &lt;LSTag Tooltip="Proficiency"&gt;proficiency&lt;/LSTag&gt;.</content>
   <content contentuid="hd85cf608gf967g6372g7c19g5517702065ee" version="1">Astral Knowledge</content>
   <content contentuid="he299d839g9076gaed9g6cf1gf40c4dce0f80" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in all &lt;LSTag Tooltip="Skill"&gt;Skills&lt;/LSTag&gt; of a chosen &lt;LSTag Tooltip="Abilities"&gt;Ability&lt;/LSTag&gt;.</content>
@@ -473,8 +473,8 @@
   <content contentuid="h96e0b6ecg81dfgd024g0705gffc38f756699" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Deception, Intimidation, Performance, and Persuasion.</content>
   <content contentuid="h348ad70fgd804gc655gef6eg033060c4f28d" version="1">Trance Point</content>
   <content contentuid="haa797072ge54bgf054g81deged40e00409f6" version="1">Trance Stuff</content>
-  <content contentuid="ha62a6ac2gce5eg3d9bg3045g6e96a7fa5a72" version="1">Trance Points [3]</content>
-  <content contentuid="h595b4353g56d5g6c01g41a1g9d4be73b087f" version="1">Trance Points can be used to alter your weapon &lt;LSTag Tooltip="Proficiency"&gt;proficiency&lt;/LSTag&gt;.</content>
+  <content contentuid="ha62a6ac2gce5eg3d9bg3045g6e96a7fa5a72" version="2">Trance Points</content>
+  <content contentuid="h595b4353g56d5g6c01g41a1g9d4be73b087f" version="2">Twice per day you can enter a trance to gain &lt;LSTag Tooltip="Proficiency"&gt;proficiency&lt;/LSTag&gt; with a weapon or tool of your choice.</content>
   <content contentuid="h4efcf87cg446ag02cdgb25dg732478e2ff80" version="1">Shadar-Kai Resistance</content>
   <content contentuid="h087ba76cg1e31g27efgf79eg5ced8dddc331" version="1">You have resistance to Necrotic damage.</content>
   <content contentuid="hc059aaaag485aga2bdg7474g10efe0766187" version="1">Trance Points</content>
@@ -591,4 +591,34 @@
   <content contentuid="h58cb8ff8g58bdg8e58gd552g78a33551f359" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Musical Instruments.</content>
   <content contentuid="hb2cb4a01gb269g827cg9703geff599ec97ec" version="2">Trance: Musical Instrument</content>
   <content contentuid="h7b0b656eg26a9gbf8fg151fg24ce3fcac5f0" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Musical Instruments.</content>
+  <content contentuid="h364bd8d1g5bdegf3d1g2fa6gc5b93230a73f" version="1">Blessing of the Raven Queen</content>
+  <content contentuid="hd8557e5fgc5e1g3f4dgda0fg7dca2e211c48" version="1">Raven Point</content>
+  <content contentuid="h363c9b0cgff38g6582ge4b5gacbd9f297277" version="1">Raven Stuff</content>
+  <content contentuid="h1f5eb461gd7f1gcb0eg9f9dg2d752a58bb43" version="6">Additional Raven Point</content>
+  <content contentuid="hc9703257gd7b8gb2a0gbf08gd9b40a5c8259" version="5">You gain an additional Raven Point to power your Blessing of the Raven Queen spell.</content>
+  <content contentuid="he0667b2fgbb6bgf2c6g1323g627599c60ce7" version="1">Teleport to somewhere you can see.</content>
+  <content contentuid="h4a7e5b86g172eg8d50ge3adg7bd526ba765c" version="3">Raven Points</content>
+  <content contentuid="he8ed8c9ag3ceag4e51g6769g4df3ea2b086a" version="3">Additional Raven Point</content>
+  <content contentuid="h7f7dd89eg859fgf1c7g9183gd0c45b5b6a9f" version="3">Additional Raven Point</content>
+  <content contentuid="he24c2c67g8fe3g6675g0029ge982316b3ed0" version="1">You have a number of blessings equal to your proficiency level that you can use to teleport. Upon reaching level 3 your teleport also grants you resistance to all damage for one turn.</content>
+  <content contentuid="h0f78444bgb0dfg4563g366fg8fe0d603caee" version="3">You have a number of raven points equal to your proficiency level that you can use to teleport. Upon reaching level 3 your teleport also grants you resistance to all damage for one turn.</content>
+  <content contentuid="h30b570d8g5152g6805g96e5g2f986963acc3" version="1">Base Racial Speed</content>
+  <content contentuid="h71894d09g8a3cg9c56gbf28g67b191f9a5a3" version="1">You can move [3] per turn.</content>
+  <content contentuid="h974b3de6g5142g146fge6dag04ef0d8e194b" version="1">Blessing of the Raven Queen</content>
+  <content contentuid="hbae1bfc7gb403ge5b2g4dd3ge875495cd736" version="2">You can teleport to a location you can see up to your proficiency level times per day.</content>
+  <content contentuid="hd6cc78d0ga505g1665gea34g3316b0192b18" version="1">Trance Points</content>
+  <content contentuid="h926f0c78g1af9g1a2eg8e35g97e8d295f3b2" version="1">Twice per day you can enter a trance to gain proficiency with a weapon or tool of your choice.</content>
+  <content contentuid="hb1b4be9ag3753g134ag413bg4c423f3ddfda" version="2">You can teleport to a location you can see up to your proficiency level times per day. You also gain resistance to all damage for one turn.</content>
+  <content contentuid="hfae06229g7ba4gc9aeg1f78ge434e74900e7" version="1">Blessing of the Raven Queen</content>
+  <content contentuid="hd3fc2ea1g28c8g0dc9gd2c3g7847970272eb" version="1">You can teleport to a location you can see up to your proficiency level times per day.</content>
+  <content contentuid="h6ecfb4c3g4aa1gaf65g3ff9g4f9f78576719" version="1">Improved Blessing of the Raven Queen</content>
+  <content contentuid="hf2bcc877gd31dg89e1g597fga4818bc47573" version="1">You can teleport to a location you can see up to your proficiency level times per day. Whenever you do, you recieve resistance to all damage for one turn.</content>
+  <content contentuid="h05b89472g0342g8a43g4066g519255588e18" version="1">Improved Raven Blessing</content>
+  <content contentuid="hd0d65c06g8474g17f4g6ea7g02b463851a64" version="1">This is a test setting.</content>
+  <content contentuid="h63a6e368g7217g3fefg9888gc910536e5068" version="1">Test Spell</content>
+  <content contentuid="h0e59ae77g2abag3339g146cgc7c574e87481" version="1">Test Spell</content>
+  <content contentuid="h1a5bcffcg25f4g7ad6g3220g23aec2a2dd46" version="1">Raven Immunity</content>
+  <content contentuid="h178e0b37g439cg8cf8gf26fg463f9a690934" version="1">TEST! Gain invulnerability for 10 turns.</content>
+  <content contentuid="h1b127b6agb224g6c2fg91d6gd00445573a68" version="1">Improved Blessing of the Raven Queen</content>
+  <content contentuid="h65cb60c2g4487gaf6bgc229gefced53b24a2" version="1">You can teleport to a location you can see up to your proficiency level times per day. Whenever you do, you recieve resistance to all damage for one turn.</content>
 </contentList>

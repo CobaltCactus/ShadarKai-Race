@@ -418,5 +418,16 @@
         <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Warhammer" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d7568253-bbcd-4ed7-970b-2a2abbc77b58" />
+        <field name="Name" type="NameTableFieldDefinition" value="RavenImmunity" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(INVULNERABILITY,100,10)" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1a5bcffcg25f4g7ad6g3220g23aec2a2dd46" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h178e0b37g439cg8cf8gf26fg463f9a690934" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
