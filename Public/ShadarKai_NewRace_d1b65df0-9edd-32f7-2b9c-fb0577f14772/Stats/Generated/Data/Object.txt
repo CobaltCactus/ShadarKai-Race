@@ -1,0 +1,10 @@
+new entry "OBJ_Dye_Shadowfell_Dye"
+type "Object"
+using "OBJ_Dye_Ocean"
+data "RootTemplate" "06154f63-a083-4879-be0a-598db7282dd1"
+
+new entry "New_Stat_0"
+type "Object"
+using "OBJ_Dye_Ocean"
+data "RootTemplate" "58385a43-f01d-4a09-a404-bab6139ab6f3"
+
