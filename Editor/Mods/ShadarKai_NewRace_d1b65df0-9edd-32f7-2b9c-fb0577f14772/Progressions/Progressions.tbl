@@ -9,7 +9,7 @@
         <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai" />
         <field name="Level" type="ByteTableFieldDefinition" value="1" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
-        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ShadarKai_Movement;UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;Darkvision;" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ShadarKai_Movement;UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;Darkvision;ShadarKai_Perception" />
         <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(8d79e901-dd13-4463-bcac-450db5ba8547);" />
       </fields>
     </stat_object>

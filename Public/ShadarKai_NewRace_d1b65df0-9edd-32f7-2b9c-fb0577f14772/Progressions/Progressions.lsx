@@ -7,7 +7,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="ShadarKai"/>
-                    <attribute id="PassivesAdded" type="LSString" value="ShadarKai_Movement;UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;Darkvision;"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShadarKai_Movement;UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;Darkvision;ShadarKai_Perception"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(8d79e901-dd13-4463-bcac-450db5ba8547);"/>
                     <attribute id="TableUUID" type="guid" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc"/>

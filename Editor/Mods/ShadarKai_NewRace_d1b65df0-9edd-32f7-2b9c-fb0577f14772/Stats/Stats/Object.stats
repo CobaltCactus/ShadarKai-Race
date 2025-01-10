@@ -12,7 +12,7 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="5296aaa4-fa82-47e0-8f04-f836cbf2a63c" />
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Dye_Raven_Dye" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="650c5871-b7d6-48ef-aa97-78d4eddfb43d" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="58385a43-f01d-4a09-a404-bab6139ab6f3" />
       </fields>
