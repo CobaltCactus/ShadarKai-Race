@@ -13,7 +13,7 @@
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE,100,-1)" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;TrancePoint:1;" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="355a5479-07c9-4a34-9ab6-3b2669fdd248,,;,,;032e057c-c5af-47a8-b65a-bf297ba03601,,;c6ba268f-f7a2-4710-aed2-dcd241b078e9,,;1c5627cb-6352-454b-9b84-c5b10ef2d201,,;,,;729a4ed9-0dac-4d71-91bc-20c85f7b160f,,;,,;,," />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="23c683b8-5bd0-44cf-b69f-4b6e975f1f99,,;,,;8a8607bb-27aa-4f60-871c-d10356894b2f,,;53fd62f1-2990-46b4-9623-ccb33d906f5c,,;c6a2984d-2fa3-4ca7-a7b4-2c1b81e5a984,,;,,;2fc4154e-a667-4812-b139-b1cb873f713d,,;,,;,," />
         <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsLinkedSpellContainer" enumeration_type_name="SpellFlagList" version="1" />

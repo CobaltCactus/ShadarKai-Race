@@ -1,0 +1,5 @@
+new entry "ARM_Underwear_ShadarKai"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "b3c7ed62-d537-4aa4-9ecc-c284502ca8c2"
+
