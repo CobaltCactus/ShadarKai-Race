@@ -5,3 +5,11 @@ new subtable "1,1"
 object category "I_OBJ_Dye_Raven",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Dye_Shadowfell",1,0,0,0,0,0,0,0
+new treasuretable "ST_Dyes_AllVeryRare"
+CanMerge 1
+new subtable "4,1;5,1;6,1;7,1"
+object category "I_OBJ_Dye_Raven",1,0,0,0,0,0,0,0
+new treasuretable "ST_Dyes_AllRare"
+CanMerge 1
+new subtable "4,1;5,1;6,1;7,1"
+object category "I_OBJ_Dye_Shadowfell",1,0,0,0,0,0,0,0

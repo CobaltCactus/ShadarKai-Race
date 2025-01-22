@@ -1076,9 +1076,6 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="0f95560b-5a30-4a94-a675-cdaa10a735f6"/>
                         </node>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="a672ac1d-d088-451a-9537-3da4bf74466c"/>
-                        </node>
                         <node id="TattooColors">
                             <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e"/>
                         </node>

@@ -21,5 +21,25 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8423e14d-e121-4f8c-953d-55dade3d43d3" />
+        <field name="Name" type="NameTableFieldDefinition" value="ST_Dyes_AllVeryRare" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="4,1;5,1;6,1;7,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Dye_Raven" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1592f163-1553-4f6e-95bd-0433ffde67a9" />
+        <field name="Name" type="NameTableFieldDefinition" value="ST_Dyes_AllRare" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="4,1;5,1;6,1;7,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Dye_Shadowfell" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
