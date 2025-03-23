@@ -631,8 +631,10 @@
   <content contentuid="hfe6953dfg1fccg769egbddbg1c69e68e46bf" version="2">This dye is so dark no light passes through it, just like the Shadowfell itself.</content>
   <content contentuid="had02724eg7567g1947gf49eg0cfa0038761d" version="3">Raven Dye</content>
   <content contentuid="h8e5b5fedg9e04g441agfcf7g5204381d0cc5" version="3">The dye shimmers and swirls in deep bluish purple hues, much like a Raven's plumage.</content>
-  <content contentuid="h0bbc0ec5g5b66g0e42g3de6gd761d6fff363" version="1">Shadowfell Dye</content>
-  <content contentuid="he9bb30e3gf4d3g13c7g004dgd35178563958" version="1">This dye smells vaguely of mint and lime. </content>
-  <content contentuid="h31cb3788g5c82g6f37g9ce0g705f9bd19ee7" version="1">Raven Dye</content>
-  <content contentuid="h2a95b0aeg5838gb5b1g25c8g2010f6352d69" version="1">These hues give the appearance of one of Luskan's dignitaries. </content>
+  <content contentuid="h0bbc0ec5g5b66g0e42g3de6gd761d6fff363" version="2">Shadowfell Dye</content>
+  <content contentuid="he9bb30e3gf4d3g13c7g004dgd35178563958" version="2">This dye smells vaguely of mint and lime. </content>
+  <content contentuid="h31cb3788g5c82g6f37g9ce0g705f9bd19ee7" version="2">Raven Dye</content>
+  <content contentuid="h2a95b0aeg5838gb5b1g25c8g2010f6352d69" version="2">These hues give the appearance of one of Luskan's dignitaries. </content>
+  <content contentuid="hccc6ed08g6a0bg09e1g277egdc0d886633a7" version="7">Shadar-Kai Camp Clothes</content>
+  <content contentuid="h34dee1b8ge17age615g7aebgda5eeea63a5b" version="1">This provacative Shadar-Kai outfit just doesn't seem to fit short, dragonborn, or half-orcs correctly.</content>
 </contentList>

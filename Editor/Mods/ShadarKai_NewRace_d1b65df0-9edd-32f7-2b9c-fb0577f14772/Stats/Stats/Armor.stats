@@ -9,5 +9,15 @@
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b3c7ed62-d537-4aa4-9ecc-c284502ca8c2" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a9c40b5c-dd51-4dab-bd92-a6ed07c6305e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Camp_Body_ShadarKai" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2680cacc-da97-4c01-86e3-48c13be05eef" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ecc38994-90e8-43df-a885-490069ea9278" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="VanityBody" enumeration_type_name="Itemslot" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
