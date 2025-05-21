@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="10"/>
     <region id="Progressions">
         <node id="root">
             <children>
@@ -26,7 +26,6 @@
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="ShadarKai"/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedRavenPointsLevel2"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="UnlockedRavenPointsLevel1"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="TableUUID" type="guid" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc"/>
                     <attribute id="UUID" type="guid" value="d007c8c8-b520-4d1c-bf89-6294d9618f30"/>
@@ -35,7 +34,6 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="ShadarKai"/>
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedRavenPointsLevel3"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="UnlockedRavenPointsLevel1"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="TableUUID" type="guid" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc"/>
                     <attribute id="UUID" type="guid" value="3e0512f4-8597-4cbf-9e17-87556ea0d29a"/>

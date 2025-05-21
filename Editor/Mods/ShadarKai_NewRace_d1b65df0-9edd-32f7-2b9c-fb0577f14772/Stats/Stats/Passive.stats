@@ -5,7 +5,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="1b9192ed-dadb-489e-a43d-a30ffb358095" />
         <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Movement" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h335fa3c9ga3d8g3a60gea59gdcde9dd2bb33" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h335fa3c9ga3d8g3a60gea59gdcde9dd2bb33" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h46ed43eeg4435ge123g2d55g5f8ce6d443c5" version="1" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="Distance(9);" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />

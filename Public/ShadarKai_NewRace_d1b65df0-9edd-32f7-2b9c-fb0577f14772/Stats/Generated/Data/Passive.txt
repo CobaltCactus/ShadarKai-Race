@@ -1,6 +1,6 @@
 new entry "ShadarKai_Movement"
 type "PassiveData"
-data "DisplayName" "h335fa3c9ga3d8g3a60gea59gdcde9dd2bb33;1"
+data "DisplayName" "h335fa3c9ga3d8g3a60gea59gdcde9dd2bb33;3"
 data "Description" "h46ed43eeg4435ge123g2d55g5f8ce6d443c5;1"
 data "DescriptionParams" "Distance(9);"
 data "Properties" "Highlighted"

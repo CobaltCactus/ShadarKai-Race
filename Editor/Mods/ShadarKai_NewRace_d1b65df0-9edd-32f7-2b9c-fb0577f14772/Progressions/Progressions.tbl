@@ -34,7 +34,6 @@
         <field name="Level" type="ByteTableFieldDefinition" value="5" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
         <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel2" />
-        <field name="PassivesRemoved" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -46,7 +45,6 @@
         <field name="Level" type="ByteTableFieldDefinition" value="9" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
         <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel3" />
-        <field name="PassivesRemoved" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
