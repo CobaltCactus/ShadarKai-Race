@@ -32,7 +32,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d20b7197-ad25-41f4-801c-354a0f28945b" />
         <field name="Name" type="NameTableFieldDefinition" value="Blessing_of_the_Raven_Queen_2" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="5f1d8ba3-5fd7-4a61-8300-1a7aa0ab525d" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:TeleportSource();ApplyStatus(RESISTANCE,100,1);GROUND:ApplyStatus(SELF, POTION_OF_INVULNERABILITY,100,1)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:TeleportSource();ApplyStatus(RESISTANCE,100,1);GROUND:ApplyStatus(SELF, SHADAR_INVULNERABILITY,100,1);" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb1b4be9ag3753g134ag413bg4c423f3ddfda" version="2" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1b127b6agb224g6c2fg91d6gd00445573a68" version="1" />
       </fields>

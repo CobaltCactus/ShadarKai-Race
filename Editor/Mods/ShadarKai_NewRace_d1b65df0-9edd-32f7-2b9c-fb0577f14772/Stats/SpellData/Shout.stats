@@ -5,7 +5,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="83216920-818b-4e84-ba49-13ac4dcd170b" />
         <field name="Name" type="NameTableFieldDefinition" value="ShadarKnowledge" />
-        <field name="ContainerSpells" type="StringTableFieldDefinition" value="Shout_ShadarKnowledge_Battleaxe;Shout_ShadarKnowledge_Club;Shout_ShadarKnowledge_Dagger;Shout_ShadarKnowledge_Flail;Shout_ShadarKnowledge_Glaive;Shout_ShadarKnowledge_Greataxe;Shout_ShadarKnowledge_Greatclub;Shout_ShadarKnowledge_Greatsword;Shout_ShadarKnowledge_Halberd;Shout_ShadarKnowledge_HandCrossbow;Shout_ShadarKnowledge_Handaxe;Shout_ShadarKnowledge_HeavyCrossbow;Shout_ShadarKnowledge_Javelin;Shout_ShadarKnowledge_LightCrossbow;Shout_ShadarKnowledge_LightHammer;Shout_ShadarKnowledge_Longbow;Shout_ShadarKnowledge_Longsword;Shout_ShadarKnowledge_Mace;Shout_ShadarKnowledge_Maul;Shout_ShadarKnowledge_Morningstar;Shout_ShadarKnowledge_MusicalInstrument;Shout_ShadarKnowledge_Pike;Shout_ShadarKnowledge_Quarterstaff;Shout_ShadarKnowledge_Rapier;Shout_ShadarKnowledge_Scimitar;Shout_ShadarKnowledge_Shortbow;Shout_ShadarKnowledge_Shortsword;Shout_ShadarKnowledge_Sickle;Shout_ShadarKnowledge_Spear;Shout_ShadarKnowledge_Trident;Shout_ShadarKnowledge_WarPick;Shout_ShadarKnowledge_Warhammer;" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" value="Shout_ShadarKnowledge_Battleaxe;Shout_ShadarKnowledge_Club;Shout_ShadarKnowledge_Dagger;Shout_ShadarKnowledge_Flail;Shout_ShadarKnowledge_Glaive;Shout_ShadarKnowledge_Greataxe;Shout_ShadarKnowledge_Greatclub;Shout_ShadarKnowledge_Greatsword;Shout_ShadarKnowledge_Halberd;Shout_ShadarKnowledge_HandCrossbow;Shout_ShadarKnowledge_Handaxe;Shout_ShadarKnowledge_HeavyCrossbow;Shout_ShadarKnowledge_Javelin;Shout_ShadarKnowledge_LightCrossbow;Shout_ShadarKnowledge_LightHammer;Shout_ShadarKnowledge_Longbow;Shout_ShadarKnowledge_Longsword;Shout_ShadarKnowledge_Mace;Shout_ShadarKnowledge_Maul;Shout_ShadarKnowledge_Morningstar;Shout_ShadarKnowledge_MusicalInstrument;Shout_ShadarKnowledge_Pike;Shout_ShadarKnowledge_Quarterstaff;Shout_ShadarKnowledge_Rapier;Shout_ShadarKnowledge_Scimitar;Shout_ShadarKnowledge_Shield;Shout_ShadarKnowledge_Shortbow;Shout_ShadarKnowledge_Shortsword;Shout_ShadarKnowledge_Sickle;Shout_ShadarKnowledge_Spear;Shout_ShadarKnowledge_Trident;Shout_ShadarKnowledge_WarPick;Shout_ShadarKnowledge_Warhammer;" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h00feb461gf779g367fgfb1cg31702888f0e4" version="2" />
@@ -156,6 +156,19 @@
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_HANDCROSSBOW,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_HANDCROSSBOW')" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_HandCrossbow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7f4ecd1f-ef92-47ec-a7c8-09c0608060ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKnowledge_HeavyCrossbow" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9f163c7-c145-4548-baea-ec62ad7bd74f" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_HEAVYCROSSBOW,100,-1);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_HeavyCrossbow" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h066135cagab92gde59g0b35gaad9ff5f8d04" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbbee89b0g53bag3ad1g35c9gfc8773710ee9" version="1" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_HEAVYCROSSBOW,100,-1)" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_HEAVYCROSSBOW')" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -325,6 +338,19 @@
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_SCIMITAR,100,-1)" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_SCIMITAR') " />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Scimitar" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="04a0b995-5998-4798-8247-3a8d4d8ebaeb" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKnowledge_Shield" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9f163c7-c145-4548-baea-ec62ad7bd74f" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_SHIELD,100,-1);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Shield" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hba2812eegb654g4b03g187egee5ceec22dde" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h546ba592gd029g020agd1d7g36a87cb20b1a" version="1" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SHADAR_KNOWLEDGE_SHIELD,100,-1)" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SHADAR_KNOWLEDGE_SHIELD')" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

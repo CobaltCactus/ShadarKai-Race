@@ -26,7 +26,7 @@ new entry "Target_Blessing_of_the_Raven_Queen_2"
 type "SpellData"
 data "SpellType" "Target"
 using "Target_Blessing_of_the_Raven_Queen"
-data "SpellProperties" "GROUND:TeleportSource();ApplyStatus(RESISTANCE,100,1);GROUND:ApplyStatus(SELF, POTION_OF_INVULNERABILITY,100,1)"
+data "SpellProperties" "GROUND:TeleportSource();ApplyStatus(RESISTANCE,100,1);GROUND:ApplyStatus(SELF, SHADAR_INVULNERABILITY,100,1);"
 data "DisplayName" "h1b127b6agb224g6c2fg91d6gd00445573a68;1"
 data "Description" "hb1b4be9ag3753g134ag413bg4c423f3ddfda;2"
 
