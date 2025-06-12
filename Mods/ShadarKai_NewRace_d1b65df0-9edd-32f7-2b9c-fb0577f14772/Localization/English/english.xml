@@ -51,8 +51,8 @@
   <content contentuid="h23dab026g27c4g7d20gad2dg45cf725c1a2c" version="1">Head 7</content>
   <content contentuid="h42e1310eg3e89g5376g3e75g2526fc4a8a41" version="1">Head 8</content>
   <content contentuid="h4687bd69g05b5g1b21g08bbg14f083126c63" version="1">Human Female </content>
-  <content contentuid="hf6fae9b0g9b28g02a6gee02gbcc13566e4a0" version="1">Base Racial Speed</content>
-  <content contentuid="h6800824dg229fgb0b4gb815g4c7474715f23" version="1">You can move [3] per turn.</content>
+  <content contentuid="hf6fae9b0g9b28g02a6gee02gbcc13566e4a0" version="2">Base Racial Speed 1</content>
+  <content contentuid="h6800824dg229fgb0b4gb815g4c7474715f23" version="2">You can move [3] per turn.</content>
   <content contentuid="h335fa3c9ga3d8g3a60gea59gdcde9dd2bb33" version="3">Base Racial Speed</content>
   <content contentuid="h46ed43eeg4435ge123g2d55g5f8ce6d443c5" version="1">You can move [1] per turn.</content>
   <content contentuid="h62082064gfb54g7902ge7f5g39499910b034" version="1">Vulva</content>
@@ -472,7 +472,7 @@
   <content contentuid="h08298949gda03g0232gfe85gc3810a481612" version="1">Astral Knowledge: Charisma</content>
   <content contentuid="h96e0b6ecg81dfgd024g0705gffc38f756699" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Deception, Intimidation, Performance, and Persuasion.</content>
   <content contentuid="h348ad70fgd804gc655gef6eg033060c4f28d" version="1">Trance Point</content>
-  <content contentuid="haa797072ge54bgf054g81deged40e00409f6" version="1">Trance Stuff</content>
+  <content contentuid="haa797072ge54bgf054g81deged40e00409f6" version="2">Twice per day you can enter a trance to gain &lt;LSTag Tooltip="Proficiency"&gt;proficiency&lt;/LSTag&gt; with a weapon or tool of your choice.</content>
   <content contentuid="ha62a6ac2gce5eg3d9bg3045g6e96a7fa5a72" version="2">Trance Points</content>
   <content contentuid="h595b4353g56d5g6c01g41a1g9d4be73b087f" version="2">Twice per day you can enter a trance to gain &lt;LSTag Tooltip="Proficiency"&gt;proficiency&lt;/LSTag&gt; with a weapon or tool of your choice.</content>
   <content contentuid="h4efcf87cg446ag02cdgb25dg732478e2ff80" version="1">Shadar-Kai Resistance</content>
@@ -593,7 +593,7 @@
   <content contentuid="h7b0b656eg26a9gbf8fg151fg24ce3fcac5f0" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Musical Instruments.</content>
   <content contentuid="h364bd8d1g5bdegf3d1g2fa6gc5b93230a73f" version="1">Blessing of the Raven Queen</content>
   <content contentuid="hd8557e5fgc5e1g3f4dgda0fg7dca2e211c48" version="1">Raven Point</content>
-  <content contentuid="h363c9b0cgff38g6582ge4b5gacbd9f297277" version="1">Raven Stuff</content>
+  <content contentuid="h363c9b0cgff38g6582ge4b5gacbd9f297277" version="2">You have a number of raven points equal to your proficiency level that you can use to teleport. Upon reaching level 3 your teleport also grants you resistance to all damage for one turn.</content>
   <content contentuid="h1f5eb461gd7f1gcb0eg9f9dg2d752a58bb43" version="6">Additional Raven Point</content>
   <content contentuid="hc9703257gd7b8gb2a0gbf08gd9b40a5c8259" version="5">You gain an additional Raven Point to power your Blessing of the Raven Queen spell.</content>
   <content contentuid="he0667b2fgbb6bgf2c6g1323g627599c60ce7" version="1">Teleport to somewhere you can see.</content>
@@ -602,8 +602,8 @@
   <content contentuid="h7f7dd89eg859fgf1c7g9183gd0c45b5b6a9f" version="3">Additional Raven Point</content>
   <content contentuid="he24c2c67g8fe3g6675g0029ge982316b3ed0" version="1">You have a number of blessings equal to your proficiency level that you can use to teleport. Upon reaching level 3 your teleport also grants you resistance to all damage for one turn.</content>
   <content contentuid="h0f78444bgb0dfg4563g366fg8fe0d603caee" version="3">You have a number of raven points equal to your proficiency level that you can use to teleport. Upon reaching level 3 your teleport also grants you resistance to all damage for one turn.</content>
-  <content contentuid="h30b570d8g5152g6805g96e5g2f986963acc3" version="1">Base Racial Speed</content>
-  <content contentuid="h71894d09g8a3cg9c56gbf28g67b191f9a5a3" version="1">You can move [3] per turn.</content>
+  <content contentuid="h30b570d8g5152g6805g96e5g2f986963acc3" version="3">Base Racial Speed</content>
+  <content contentuid="h71894d09g8a3cg9c56gbf28g67b191f9a5a3" version="2">You can move [3] per turn.</content>
   <content contentuid="h974b3de6g5142g146fge6dag04ef0d8e194b" version="1">Blessing of the Raven Queen</content>
   <content contentuid="hbae1bfc7gb403ge5b2g4dd3ge875495cd736" version="2">You can teleport to a location you can see up to your proficiency level times per day.</content>
   <content contentuid="hd6cc78d0ga505g1665gea34g3316b0192b18" version="1">Trance Points</content>

@@ -3,16 +3,6 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
-        <field name="UUID" type="IdTableFieldDefinition" value="eb09c7f6-fbb0-477a-b528-0b0d67694b2e" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf6fae9b0g9b28g02a6gee02gbcc13566e4a0" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6800824dg229fgb0b4gb815g4c7474715f23" version="1" />
-        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="ActionResource(Movement,9,0)" />
-        <field name="Type" type="FixedStringTableFieldDefinition" value="ActionResource" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
         <field name="UUID" type="IdTableFieldDefinition" value="32a769aa-39be-4fde-9b01-4b998803025e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7aceac4dgaf2agd57bg9eb4g9d8abefd6fc3" version="1" />
@@ -54,8 +44,8 @@
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_119" />
         <field name="UUID" type="IdTableFieldDefinition" value="9894d8a4-f86c-489a-bacc-763dcef0a688" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h30b570d8g5152g6805g96e5g2f986963acc3" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h71894d09g8a3cg9c56gbf28g67b191f9a5a3" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h30b570d8g5152g6805g96e5g2f986963acc3" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h71894d09g8a3cg9c56gbf28g67b191f9a5a3" version="2" />
         <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="ActionResource(Movement,9,0)" />
       </fields>
     </stat_object>
