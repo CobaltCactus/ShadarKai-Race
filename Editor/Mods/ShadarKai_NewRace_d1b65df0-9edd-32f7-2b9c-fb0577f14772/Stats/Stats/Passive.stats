@@ -116,5 +116,15 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Blessing_of_the_Raven_Queen_2);" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c29e7abf-caed-435f-b70b-d7d340aaeace" />
+        <field name="Name" type="NameTableFieldDefinition" value="RavenCompanion" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h849a8457g533dg2dd5gf3e5g3e240ab8919c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h81520e8ag75d0g5535g62b8g4e0d3fb99ea9" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_RavenCompanion);" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
